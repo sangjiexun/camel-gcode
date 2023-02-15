@@ -41,7 +41,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <apache.camel.version>2.18.0</apache.camel.version>
+    <apache.camel.version>2.24.0</apache.camel.version>
     <logging.version>2.3</logging.version>
   </properties>
 
